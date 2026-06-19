@@ -1,8 +1,8 @@
 {
   "version": 2,
   "framework": "vite",
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": "dist",
+  "public": true,
+  "cleanUrls": true,
   "rewrites": [
     {
       "source": "/(.*)",
