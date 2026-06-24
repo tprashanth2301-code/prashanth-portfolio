@@ -53,3 +53,7 @@ This project is optimized for **Vercel**. Simply connect your GitHub repository 
 
 ---
 Crafted with passion by **Prashanth Terupelli**
+
+## 📊 Featured Projects
+
+- **[Automated Data Quality Monitoring System](./projects/automated-data-quality-monitoring/README.md)**: A production-grade detection system to flag data inconsistencies across enterprise datasets. Scaled validation from 1 to 100+ client datasets and reduced recurring data issues by 45%. Built with Python, SQL, and Snowflake.
