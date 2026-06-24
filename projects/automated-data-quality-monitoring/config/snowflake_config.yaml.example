@@ -1,0 +1,8 @@
+snowflake:
+  user: "YOUR_USERNAME"
+  password: "YOUR_PASSWORD"
+  account: "YOUR_ACCOUNT_IDENTIFIER"
+  warehouse: "COMPUTE_WH"
+  database: "DATA_QUALITY_DB"
+  schema: "MONITORING"
+  role: "ACCOUNTADMIN"
